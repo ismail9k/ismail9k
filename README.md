@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <center>
   <a href="htpps://ismail9k.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=ismail9k&theme=vue&show_icons=true" alt="performance" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ismail9k&theme=vue&show_icons=true&count_private=true" alt="performance" />
   </a>
 
   <a href="https://ismail9k.com">
