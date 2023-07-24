@@ -1,19 +1,18 @@
-### Hi there 👋
+Hi, I'm
 
-<!--
-**ismail9k/ismail9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Abdelrahman Ismail
 
-Here are some ideas to get you started:
+You might know me as Ismail9k. I'm a seasoned Tech Lead with a passion for creating and writing about innovative solutions. As a content creator, I strive to share my technological insights, sparking dialogue and learning.<br>But above all else, I'm a proud father, treasuring the moments I spend nurturing my children.<br>Welcome to my world. Let's explore and grow together in this digital space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am Abdelrahman Ismail (aka Ismail9k)
+<div align="left">
+  <a href="https://linktr.ee/ismail9k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ismail9k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/ismail_9k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
